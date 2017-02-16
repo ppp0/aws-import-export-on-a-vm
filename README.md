@@ -5,3 +5,8 @@ You may not want to run the [AWS-provided jar file](http://docs.aws.amazon.com/A
 
 * Vagrant box with minimal Debian and compatible JRE
 * Attach you usb drive and configure Virtual Box to forward it to the virtual machine
+
+To do:
+* script repartitioning and formatting dirve
+* mounting and creating a job
+* verify a job
